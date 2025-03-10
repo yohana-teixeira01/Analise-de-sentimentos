@@ -1,0 +1,8 @@
+frase 1
+A avanade é uma empresa maravilhosa.
+
+frase 2
+Quem não focar no bootcamp e terminar, infelizmente não tem chance de ser apto para entrevista.
+
+frase 3
+Ele está na metade do processo, talvez consiga.
